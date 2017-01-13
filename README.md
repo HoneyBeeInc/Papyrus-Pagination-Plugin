@@ -1,4 +1,4 @@
-# [jQuery pagination plugin (bootstrap powered)](http://esimakin.github.io/twbs-pagination/)
+# [Papyrus - a jQuery pagination plugin]forked from (http://esimakin.github.io/twbs-pagination/)
 
 ### Basic usage ###
 
